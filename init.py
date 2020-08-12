@@ -1,6 +1,8 @@
+
+from time import sleep as dly
+
 print("Hello ..!")
 
-# first comment
+dly(2)
 
 print("Hi..")
-
