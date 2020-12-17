@@ -3,6 +3,6 @@
 MPU6050 interface with Raspberry Pi
 
 
-[x] Temperature readings
-[] Acc values - Not completed yet.
-[] Gyro values - Not completed yet.
+-[x] Temperature readings
+-[] Acc values - Not completed yet.
+-[] Gyro values - Not completed yet.
